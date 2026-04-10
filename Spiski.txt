@@ -303,7 +303,7 @@ web.t.me
 web.telegram.org
 webk.telegram.org
 windows.telegram.org
-zeus.telegram.org}
+zeus.telegram.org
 iobit.com
 imem.app
 sherlock-report.at
