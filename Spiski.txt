@@ -307,3 +307,5 @@ zeus.telegram.org
 iobit.com
 imem.app
 sherlock-report.at
+claude.ai
+anthropic.com
