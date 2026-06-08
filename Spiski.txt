@@ -1,3 +1,5 @@
+facetime.apple.com
+facetime-apple-com.we.apple-dns.net
 kali.download
 hashcat.net
 http.kali.org
