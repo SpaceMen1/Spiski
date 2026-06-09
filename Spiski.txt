@@ -2,13 +2,11 @@ facetime.apple.com
 facetime-apple-com.we.apple-dns.net
 kali.download
 hashcat.net
-http.kali.org
 kali.org
-meet.bluesystem.me
+bluesystem.me
 hornet.com
 gethornnet.com
 hornet.ru
-bluesystem.me
 streamtape.to
 tapecontent.net
 4pda.ru
@@ -92,7 +90,6 @@ cloudflare.com
 one.one.one.one
 cloudflarestatus.com
 cdnjs.com
-cloudfront.net
 digitalocean.com
 ai.google.dev
 generativeai.google
@@ -110,8 +107,6 @@ labs.google
 aisandbox-pa.googleapis.com
 stitch.withgoogle.com
 robinfrontend-pa.googleapis.com
-telegram.org
-t.me
 teleg.xyz
 telegram.ai
 telegram.asia
@@ -121,8 +116,6 @@ telegram.cn
 telegram.co
 telegram.com
 telegram.de
-telegram.dev
-telegram.dog
 telegram.eu
 telegram.fr
 telegram.host
@@ -130,13 +123,11 @@ telegram.in
 telegram.info
 telegram.io
 telegram.jp
-telegram.me
 telegram.net
 telegram.qa
 telegram.ru
 telegram.services
 telegram.solutions
-telegram.space
 telegram.team
 telegram.tech
 telegram.uk
@@ -144,10 +135,8 @@ telegram.us
 telegram.website
 telegram.xyz
 telegramapp.org
-telesco.pe
 test.telegram.org
 testing.telegram.org
-tg.dev
 tg.org
 tgram.org
 torg.org
