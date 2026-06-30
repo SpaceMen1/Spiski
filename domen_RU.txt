@@ -14,8 +14,8 @@ whatsapp.info
 whatsapp.org
 whatsapp.tv
 whatsappbrand.com
-
-
+21st.dev
+motion.dev
 cloudflare.com
 one.one.one.one
 cdnjs.com
