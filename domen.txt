@@ -41,3 +41,5 @@ imem.app
 sherlock-report.at
 vibecode-claude.online
 api.vibecode-claude.online
+vibecode-claude.online
+claude-code-cli.vibecode-claude.online
