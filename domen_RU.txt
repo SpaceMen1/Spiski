@@ -21,3 +21,6 @@ one.one.one.one
 cdnjs.com
 cloudflarestatus.com
 
+vibecode-claude.online
+api.vibecode-claude.online
+claude-code-cli.vibecode-claude.online
