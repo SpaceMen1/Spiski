@@ -20,7 +20,7 @@ cloudflare.com
 one.one.one.one
 cdnjs.com
 cloudflarestatus.com
-
+image.tmdb.org
 themoviedb.org
 tmdb.org
 fanart.tv
