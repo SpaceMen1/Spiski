@@ -44,7 +44,19 @@ rutor.info
 rutor.is
 rutor.lib
 nnmclub.to
-nnm-club.me
+nnm-club.mekodik.cc
+kodik.biz
+aniqit.com
+videocdn.tv
+videocdn.in
+collaps.org
+collaps.net
+alloha.tv
+cdnmovies.net
+vidsrc.to
+vidsrc.meopensubtitles.org
+opensubtitles.com
+cub.rip
 nnm-club.to
 kinozal.tv
 kinozal.guru
@@ -59,3 +71,5 @@ hdrezka.me
 filmix.ac
 voidboost.cc
 kinopoiskapiunofficial.tech
+api.themoviedb.org
+
