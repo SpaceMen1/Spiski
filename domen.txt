@@ -42,4 +42,6 @@ sherlock-report.at
 vibecode-claude.online
 api.vibecode-claude.online
 claude-code-cli.vibecode-claude.online
-
+hornet.com
+gethornnet.com
+hornet.ru
