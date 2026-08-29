@@ -45,3 +45,5 @@ claude-code-cli.vibecode-claude.online
 hornet.com
 gethornnet.com
 hornet.ru
+hornetapp.com 
+hornet.app
