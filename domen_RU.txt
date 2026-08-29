@@ -1,8 +1,5 @@
 facetime.apple.com
 facetime-apple-com.we.apple-dns.net
-hornet.com
-gethornnet.com
-hornet.ru
 streamtape.to
 tapecontent.net
 wl.co
@@ -75,3 +72,4 @@ api.themoviedb.org
 githubusercontent.com
 raw.githubusercontent.com
 github.com
+imagetmdb.com
