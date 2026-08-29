@@ -1,5 +1,6 @@
 ckdatabase.com
 apple-cloudkit.com
+facetime.com
 facetime.apple.com
 facetime-apple-com.we.apple-dns.net
 streamtape.to
