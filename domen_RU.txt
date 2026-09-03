@@ -72,7 +72,7 @@ filmix.ac
 voidboost.cc
 kinopoiskapiunofficial.tech
 api.themoviedb.org
-githubusercontent.com
-raw.githubusercontent.com
-github.com
+# githubusercontent.com
+# raw.githubusercontent.com
+# github.com
 imagetmdb.com
