@@ -78,6 +78,7 @@ api.themoviedb.org
 imagetmdb.com
 epg.team
 hls.gd
+hls.ga
 team.ga
 troya.info
 troya.live
