@@ -76,6 +76,7 @@ api.themoviedb.org
 # raw.githubusercontent.com
 # github.com
 imagetmdb.com
+epg.ovh
 epg.team
 hls.gd
 hls.ga
