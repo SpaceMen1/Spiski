@@ -19,6 +19,7 @@ facetime.net
 facetime-apple-com.we.apple-dns.net
 facetime.apple.com
 facetime.com
+invitation.apple.com
 fanart.tv
 filmix.ac
 githubusercontent.com
