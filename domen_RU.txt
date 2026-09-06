@@ -1,12 +1,10 @@
 21st.dev
 alloha.tv
 aniqit.com
-apple-cloudkit.com
 bitru.org
 bwa.to
 cdnjs.com
 cdnmovies.net
-ckdatabase.com
 cloudflare.com
 cloudflarestatus.com
 collaps.net
@@ -17,6 +15,7 @@ cub.watch
 cub.ws
 epg.ovh
 epg.team
+facetime.net
 facetime-apple-com.we.apple-dns.net
 facetime.apple.com
 facetime.com
