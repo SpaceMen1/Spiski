@@ -15,11 +15,16 @@ cub.watch
 cub.ws
 epg.ovh
 epg.team
+# FaceTime
 facetime.net
 facetime-apple-com.we.apple-dns.net
 facetime.apple.com
 facetime.com
 invitation.apple.com
+facetime.apple.com
+ess.apple.com
+vvs.apple.com
+
 fanart.tv
 filmix.ac
 githubusercontent.com
