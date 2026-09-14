@@ -134,4 +134,9 @@ whatsapp.tv
 whatsappbrand.com
 wl.co
 massgrave.dev
+amazonaws.com
+akamaitechnologies.com
+akamaihd.net
+iobit.com
+driverbooster.com
 
