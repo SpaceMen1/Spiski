@@ -45,6 +45,14 @@ news-edge.apple.com
 news-events.apple.com
 amp-api.fitness.apple.com
 fitness.apple.com
+# --- Push-уведомления (FCM / GCM) ---
+mtalk.google.com
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+fcm.googleapis.com
+fcmregistrations.googleapis.com
 
 fanart.tv
 filmix.ac
