@@ -24,7 +24,7 @@ invitation.apple.com
 facetime.apple.com
 ess.apple.com
 vvs.apple.com
-# Apple
+# --- Переводчик Safari и голос Siri (включая Apple Watch) ---
 translation.apple.com
 idiom-translation.apple.com
 guzzoni.apple.com
@@ -36,6 +36,15 @@ api.smoot.apple.com
 ls.apple.com
 gspe1-ssl.ls.apple.com
 fides-ssl.ls.apple.com
+# --- Виджет погоды, новости, акции и фитнес ---
+weather-data.apple.com
+weather-analytics-events.apple.com
+stocks-sparkline.apple.com
+stocks-data-service.apple.com
+news-edge.apple.com
+news-events.apple.com
+amp-api.fitness.apple.com
+fitness.apple.com
 
 fanart.tv
 filmix.ac
