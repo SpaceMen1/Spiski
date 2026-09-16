@@ -24,6 +24,18 @@ invitation.apple.com
 facetime.apple.com
 ess.apple.com
 vvs.apple.com
+# Apple
+translation.apple.com
+idiom-translation.apple.com
+guzzoni.apple.com
+sequoia.apple.com
+siri.apple.com
+seed-sequoia.siri.apple.com
+smoot.apple.com
+api.smoot.apple.com
+ls.apple.com
+gspe1-ssl.ls.apple.com
+fides-ssl.ls.apple.com
 
 fanart.tv
 filmix.ac
