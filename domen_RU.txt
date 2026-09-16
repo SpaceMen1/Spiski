@@ -24,14 +24,6 @@ invitation.apple.com
 facetime.apple.com
 ess.apple.com
 vvs.apple.com
-# --- Переводчик Safari и голос Siri (включая Apple Watch) ---
-translation.apple.com
-idiom-translation.apple.com
-guzzoni.apple.com
-sequoia.apple.com
-siri.apple.com
-smoot.apple.com
-ls.apple.com
 # --- Виджет погоды, новости, акции и фитнес ---
 weather-data.apple.com
 weather-analytics-events.apple.com
