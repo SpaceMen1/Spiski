@@ -4,7 +4,6 @@ facetime-apple-com.we.apple-dns.net
 facetime.apple.com
 facetime.com
 invitation.apple.com
-facetime.apple.com
 ess.apple.com
 vvs.apple.com
 # --- Виджет погоды, новости, акции и фитнес ---
@@ -31,6 +30,10 @@ sequoia.apple.com
 siri.apple.com
 smoot.apple.com
 ls.apple.com
+# HomePod
+gateway.icloud.com
+api.apple-cloudkit.com
+init.itunes.apple.com
 
 21st.dev
 alloha.tv
