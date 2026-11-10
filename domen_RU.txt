@@ -173,6 +173,8 @@ iobit.com
 driverbooster.com
 
 nextdns.io
+dns.nextdns.io
+
 tailscale.com
 ts.net
 tailscale.io
