@@ -172,7 +172,7 @@ akamaihd.net
 iobit.com
 driverbooster.com
 
-
+nextdns.io
 tailscale.com
 ts.net
 tailscale.io
